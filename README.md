@@ -1,3 +1,4 @@
 # antiqScan
-##command to work together:
+## command to work together:
+
 git clone 
